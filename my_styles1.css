@@ -1,0 +1,74 @@
+/* CSS3 */
+
+body{
+    background-image: url(pictures/scifi.jpg);
+}
+
+#test{
+    background-color: rgb(17, 17, 61);
+    color: rgb(255, 255, 255);
+    margin: 15px;
+    padding: 15px;
+    border: 7px solid rgb(16, 18, 138);
+    border-radius: 100px;
+    opacity: 0.7;
+    box-shadow: 20px 20px 7px  cyan;
+    width: 20%;
+    text-align: center;
+    height: 50px;
+
+    transform: scale(0.7);
+    transition: 5s transform;
+}
+
+#test:hover{
+    box-shadow: 10px 10px 7px  rgb(144, 173, 173);
+    transform: scale(1);
+    transition: 5s all;
+}
+
+#test1{
+    background-color: rgb(76, 76, 129);
+    color: rgb(255, 255, 255);
+    margin: 15px;
+    padding: 15px;
+    border: 7px solid rgb(16, 18, 138);
+    border-radius: 100px;
+    opacity: 0.7;
+    box-shadow: 20px 20px 7px  cyan;
+    width: 20%;
+    text-align: center;
+    height: 50px;
+
+    transform: rotate(90deg);
+    transition: 5s all;
+}
+
+#test1:hover{
+    box-shadow: 10px 10px 7px  rgb(144, 173, 173);
+    transform: scale(1);
+    transition: 5s all;
+}
+
+#test1{
+    background-color: rgb(76, 76, 129);
+    color: rgb(255, 255, 255);
+    margin: 15px;
+    padding: 15px;
+    border: 7px solid rgb(16, 18, 138);
+    border-radius: 100px;
+    opacity: 0.7;
+    box-shadow: 20px 20px 7px  cyan;
+    width: 20%;
+    text-align: center;
+    height: 50px;
+
+    transform: rotate(90deg);
+    transition: 5s all;
+}
+
+#test1:hover{
+    box-shadow: 10px 10px 7px  rgb(144, 173, 173);
+    transform: scale(1);
+    transition: 5s all;
+}
